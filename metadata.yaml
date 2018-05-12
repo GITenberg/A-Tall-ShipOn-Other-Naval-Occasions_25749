@@ -1,0 +1,34 @@
+_repo: A-Tall-ShipOn-Other-Naval-Occasions_25749
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bartimeus
+    aliases:
+    - Ritchie, Lewis Anselm da Costa
+    - Da Costa Ricci, Lewis Anselm
+    - Ricci, Lewis Anselm da Costa
+    - Costa Ricci, Lewis Anselm da
+    birthdate: 1886
+    deathdate: 1967
+    gutenberg_agent_id: '31547'
+    url: http://www.gutenberg.org/2009/agents/31547
+description: ''
+gutenberg_issued: '2008-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25749'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PR'
+- !lcsh 'Sea stories'
+title: 'A Tall Ship
+
+  On Other Naval Occasions'
+url: http://www.gutenberg.org/ebooks/25749
